@@ -1,0 +1,104 @@
+body{
+	font:"Arial","Sans-serif";
+	position: relative;
+	margin: 0;
+	padding:0;
+}
+
+.nav{
+	margin-top: 13px;
+	float: right;
+}
+#mpro{
+	width: 66px;
+	float: right;
+	background-color:#3388ff; 
+	font-size:13px;
+	color: #fff;
+	margin-left: 23px;
+	padding:4px 0px 4px 0px; 
+	text-align: center;
+}
+#n1{
+	float: right;
+}
+#n1 a{
+	font-size:13px; 
+	color:#000;
+	padding:2px 0px 2px 0px; 
+	margin-left: 13px;
+}
+#n1 a.lin{
+	font-weight:bold;
+}
+#n1 a:hover{
+	color: #00c;
+}
+#setmenu{
+	width: 80px;
+	position: absolute;
+	right:70px;
+	padding-top: 10px; 
+	display: none;
+	/*border: 1px solid #000;*/
+}
+#setmenu a{
+	text-decoration: none;
+	display: block;
+	font-size: 8px;
+	padding:3px 8px; 
+}
+#setmenu a:hover{
+	color: #fff;
+	background-color:#38f; 
+}
+#logo{
+	width: 270px;
+	margin: 0 auto;
+	position: relative;
+	padding-top: 100px;
+	padding-bottom: 20px;
+}
+#serbox{
+	width: 700px;
+	margin: 0 auto;
+	position: relative;
+}
+#serbox input{
+	height: 36px;
+	width: 540px;
+	padding: 0px;
+	border:1px solid #999;
+	margin: 0px 0px;
+	font-size: 16px;
+}
+#serbox button{
+	height: 38px;
+	width: 102px;
+	padding: 0px;
+	border:1px solid #fff;
+	background-color: #3388ff; 
+	color: #fff; 
+	margin:0px 0px;
+	
+
+}
+.foot{
+	font-size: 12px;
+	width: 700px;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	padding-top: 350px;
+}
+#st1 a{
+	margin-right: 12px;
+}
+#st2{
+	color: #666;
+	font: arial;
+}
+#st2 a{
+	color: #666;
+	font: arial;
+}
